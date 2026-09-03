@@ -27,4 +27,8 @@ Con el fin de dar un seguimiento profesional en análisis y gestion de proyectos
 
 ● Aseguramiento de la calidad del software en el login de la página
 
+## Evidencias
+
+:file_folder: Documentación oficial en ApiDoc
+
 
