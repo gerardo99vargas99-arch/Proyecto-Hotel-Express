@@ -43,5 +43,9 @@ Es por ello que se implementó un seguimiento simulado con la herramienta Notion
 
 Los resultados finales son: ● Escenario de prueba en login ● Método POST como principal objetivo de observación ● Defectos encontrados y reportados ● Deporación del proyecto ● Finalización del proyecto 
 
+## ✏️Tester by: Gerardo Vargas Ventura ● QA Engineer
 
+🖥️ <a href="https://www.linkedin.com/in/gerardo-vargas-ventura1999" target="_blank">Mi Perfil De Linkedin</a>
+
+📧 jerryjym352@gmail.com
 
