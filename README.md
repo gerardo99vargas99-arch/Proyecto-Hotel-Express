@@ -18,10 +18,12 @@ Con el fin de dar un seguimiento profesional en análisis y gestion de proyectos
 | **Testing** | `Smoke Testing` `Exploratory Testing` `API Testing`|
 | **Soporte** | `ChatGPT` para optimización de cobertura |
 ## :ballot_box_with_check: Resultados obtenidos
-● 9 Bugs encontrados en método POST
-● 7 defectos en 404 not found y 2 en 400 bad request
-● Comunicación clara en la documentación de errores
+● Supervisión completa del login en métodos POST
+
+● 7 bugs en 404 not found y 2 bugs en 400 bad request
+
 ● Reporte de defectos críticos
+
 ● Aseguramiento de la calidad del software en el login de la página
 
 
