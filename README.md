@@ -41,7 +41,14 @@ Durante el trayecto de este proyecto, se diagnosticó el alcance de prueba para 
 
 Es por ello que se implementó un seguimiento simulado con la herramienta Notion, priorizando la necesidad del cliente y corrigiendo los tiempo establecidos, de tal modo que el proyecto se realizara lo más rapido posible y se lograra los objetivos planteados desde un principio, asegurando los limites de prueba y reportando los defectos con claridad y priorizando correctamente el nivel crítico para cada bug.
 
-Los resultados finales son: ● Escenario de prueba en login ● Método POST como principal objetivo de observación ● Defectos encontrados y reportados ● Deporación del proyecto ● Finalización del proyecto 
+Los resultados finales son: 
+
+● Escenario de prueba en login 
+● Método POST como principal objetivo de observación 
+● Defectos encontrados y reportados a tiempo 
+● Deporación del proyecto 
+● Finalización del proyecto 
+
 
 ## ✏️Tester by: Gerardo Vargas Ventura ● QA Engineer
 
