@@ -18,6 +18,7 @@ Con el fin de dar un seguimiento profesional en análisis y gestion de proyectos
 | **Testing** | `Smoke Testing` `Exploratory Testing` `API Testing`|
 | **Soporte** | `ChatGPT` para optimización de cobertura |
 ## :ballot_box_with_check: Resultados obtenidos
+
 ● Supervisión completa del login en métodos POST
 
 ● 7 bugs en 404 not found y 2 bugs en 400 bad request
