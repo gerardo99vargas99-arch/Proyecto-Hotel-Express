@@ -43,6 +43,7 @@ Es por ello que se implementó un seguimiento simulado con la herramienta Notion
 
 Los resultados finales son: 
 
+
 ● Escenario de prueba en login
 
 ● Método POST como principal objetivo de observación
@@ -52,6 +53,7 @@ Los resultados finales son:
 ● Deporación del proyecto
 
 ● Finalización del proyecto 
+
 
 
 ## ✏️Tester by: Gerardo Vargas Ventura ● QA Engineer
