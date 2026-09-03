@@ -37,7 +37,7 @@ Con el fin de dar un seguimiento profesional en análisis y gestion de proyectos
 
 ## :checkered_flag: Comentario y logros obtenidos
 
-Durante el trayecto de este proyecto, pude diagnosticar el alcance de prueba para una dinámica adecuada a la necesidad del usuario y la cobertura de la app (Hotel Express) de forma profesional. La trazabilidad de los hallazgos y reporte de bugs encontrados fué de la manera más gestionada posible. Tomando en cuenta qué, en terminos financieros, un proyecto real puede requerir una depuración instantanea y sin previo aviso. 
+Durante el trayecto de este proyecto, se diagnosticó el alcance de prueba para una dinámica adecuada a la necesidad del usuario y la cobertura de la app (Hotel Express) de forma profesional. La trazabilidad de los hallazgos y reporte de bugs encontrados fué de la manera más gestionada posible. Tomando en cuenta qué, en terminos financieros, un proyecto real puede requerir una depuración instantanea y sin previo aviso. 
 
 Es por ello que se implementó un seguimiento simulado con la herramienta Notion, priorizando la necesidad del cliente y corrigiendo los tiempo establecidos, de tal modo que el proyecto se realizara lo más rapido posible y se lograra los objetivos planteados desde un principio, asegurando los limites de prueba y reportando los defectos con claridad y priorizando correctamente el nivel crítico para cada bug.
 
