@@ -29,6 +29,6 @@ Con el fin de dar un seguimiento profesional en análisis y gestion de proyectos
 
 ## Evidencias
 
-:file_folder: Documentación oficial en ApiDoc
+:file_folder: [ApiDoc - Hotel Express](https://restful-booker.herokuapp.com/apidoc/index.html?utm_source=chatgpt.com)
 
 
