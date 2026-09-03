@@ -50,7 +50,9 @@ Los resultados finales son:
 
 ● Defectos encontrados y reportados a tiempo
 
-● Deporación del proyecto
+● Depuración del proyecto en un 20% más rapido de lo esperado
+
+● Aseguramiento de la calidad del software
 
 ● Finalización del proyecto 
 
