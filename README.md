@@ -60,6 +60,7 @@ Los resultados finales son:
 
 ## ✏️Tester by: Gerardo Vargas Ventura ● QA Engineer
 
+
 🖥️ <a href="https://www.linkedin.com/in/gerardo-vargas-ventura1999" target="_blank">Mi Perfil De Linkedin</a>
 
 📧 jerryjym352@gmail.com
