@@ -43,10 +43,14 @@ Es por ello que se implementó un seguimiento simulado con la herramienta Notion
 
 Los resultados finales son: 
 
-● Escenario de prueba en login 
-● Método POST como principal objetivo de observación 
-● Defectos encontrados y reportados a tiempo 
-● Deporación del proyecto 
+● Escenario de prueba en login
+
+● Método POST como principal objetivo de observación
+
+● Defectos encontrados y reportados a tiempo
+
+● Deporación del proyecto
+
 ● Finalización del proyecto 
 
 
