@@ -35,6 +35,13 @@ Con el fin de dar un seguimiento profesional en análisis y gestion de proyectos
 
 :closed_book: [Lista de proceso del proyecto - Notion (Extra)](https://app.notion.com/p/3aaaaaafb29f80b2a193c70300fd455e?v=3aaaaaafb29f8024916c000c60913a93&source=copy_link)
 
-## 
+## :checkered_flag: Comentario y logros obtenidos
+
+Durante el trayecto de este proyecto, pude diagnosticar el alcance de prueba para una dinámica adecuada a la necesidad del usuario y la cobertura de la app (Hotel Express) de forma profesional. La trazabilidad de la hallazgos y reporte de bugs encontrados fué de la manera más gestionada posible. Tomando en cuenta qué, en terminos financieros, un proyecto real puede requerir una depuración instantanea y sin previo aviso. 
+
+Es por ello que se implementó un seguimiento simulado con la herramienta Notion, priorizando la necesidad del cliente y corrigiendo los tiempo establecidos, de tal modo que el proyecto se realizara lo más rapido posible y se lograra los objetivos planteados desde un principio.
+
+Los resultados finales son: ● Escenario de prueba en login ● Método POST como principal objetivo de observación ● Defectos encontrados y reportados ● Deporación del proyecto ● Finalización del proyecto 
+
 
 
