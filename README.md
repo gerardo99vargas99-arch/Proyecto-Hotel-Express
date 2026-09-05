@@ -65,4 +65,4 @@ Los resultados finales son:
 
 📧 jerryjym352@gmail.com
 
-📰 <a href="CV_GerardoVargasVentura.docx.pdf" target="_blank">Mi CV Profesional</a>
+📰 <a href="https://github.com/gerardo99vargas99-arch/gerardo99vargas99-arch/blob/main/CV_GerardoVargasVentura.docx.pdf" target="_blank">Mi CV Profesional</a>
